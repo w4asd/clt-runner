@@ -13,4 +13,3 @@ if y > 655
 	alarm[0] = 10
 }
 
-show_debug_message(x)
